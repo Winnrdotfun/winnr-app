@@ -1,0 +1,49 @@
+{
+  "assets": {
+    "./media/app_icon.png": {
+      "path": "./media/app_icon.png",
+      "sha256": "IxCwcSNuU++fsWFyBU1LQ7FHfPt/aZBfYJemOEupZsQ=",
+      "uri": "https://arweave.net/spC86XLNVKtHLIpLmvSydLuijeyDbRMaMIdpyQ86q_g"
+    },
+    "./media/banner.png": {
+      "path": "./media/banner.png",
+      "sha256": "+OHYfve3SlCXkucFqN4rnXXl9LWqMeMbTnTcJOD2KEw=",
+      "uri": "https://arweave.net/c8Ms4zE5g_Q1fatnHykBl6DOPleCxv9Y016SmLBSYRw"
+    },
+    "./media/screenshot_2.png": {
+      "path": "./media/screenshot_2.png",
+      "sha256": "VB/KSsIPWM/0lqaRTGxMlYhwK22QDxalR2Fg9HiKOfA=",
+      "uri": "https://arweave.net/0N9VjVadhQaNpEu4MgkcOTgVjcpMIcLhbM9B5XWwXtM"
+    },
+    "./media/feature_graphic.png": {
+      "path": "./media/feature_graphic.png",
+      "sha256": "LCilD4l1D1UJSLyEAQrWIbhJ6vbgyC1l8Omh4MIEHW4=",
+      "uri": "https://arweave.net/BXqY5w-iSkIQiFKanRy4_dI0CEAjRsMuUEgAmYe9fok"
+    },
+    "./media/screenshot_1.png": {
+      "path": "./media/screenshot_1.png",
+      "sha256": "H3mwPx0zybYAJl+0iGI1TLxcd9mHDpg4DoXxqCC2YPc=",
+      "uri": "https://arweave.net/ymz4PFn69t6X1y9wQg2RFIVqnX0NgkxvMfrhEU8MiG0"
+    },
+    "./media/screenshot_4.png": {
+      "path": "./media/screenshot_4.png",
+      "sha256": "aBsGE6biTZhglqdTVdoii5JVDipg6Cvr3nlzTut2clU=",
+      "uri": "https://arweave.net/jayvW4zZD0Qj5eE2kP1gC2yzu6sk-kXe7Zj4SkopI0o"
+    },
+    "./media/screenshot_3.png": {
+      "path": "./media/screenshot_3.png",
+      "sha256": "zV5j9wspKFsyq1u0SR31O+A4QZOG/pE4UzFk+h1fSYc=",
+      "uri": "https://arweave.net/mKvqT5Pw1x3ux_B6KAvHdBBu2-CS8z6IFmh_MVdrR3U"
+    },
+    "./files/app-release-signed.apk": {
+      "path": "./files/app-release-signed.apk",
+      "sha256": "iuPHaVhWzE9iygw43CIQbT3QQvubxcvkRzlNwY0eWhw=",
+      "uri": "https://arweave.net/7p0L2kTYWuvHVRn298qpqLXTF0p7ZhvWWKzqTr3di4U"
+    },
+    "./media/release_icon.png": {
+      "path": "./media/release_icon.png",
+      "sha256": "h5HlGj00Q74S1XufqcmomXmAdjjuNdIwFePoRQ7LcvU=",
+      "uri": "https://arweave.net/xDXqvKW9x4k77Y0vQG4FmNfVB3jmaEmej2Pr_udmwPs"
+    }
+  }
+}

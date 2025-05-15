@@ -1,0 +1,56 @@
+publisher:
+  name: Winnr
+  address: EBHB8khgLTTGBdxo3gNipxrUZXU8RDx3onrdN2kUaSXv
+  website: https://winnr.fun
+  email: contact@winnr.fun
+  media:
+    - purpose: icon
+      uri: ./media/app_icon.png
+app:
+  name: Winnr
+  address: AH89F9GH4GoAd5agw2UnGxVvXSc8yH5ihoSAKfMskA6G
+  android_package: fun.winnr.app.twa
+  urls:
+    license_url: https://winnr.fun
+    copyright_url: https://winnr.fun
+    privacy_policy_url: https://winnr.fun
+    website: https://winnr.fun
+  media:
+    - purpose: icon
+      uri: ./media/app_icon.png
+release:
+  address: bdYXdfFxPB8d3Ki5HMPXuw7TeFkhXoGU9pRT5HGRJkM
+  media:
+    - purpose: icon
+      uri: ./media/release_icon.png
+    - purpose: banner
+      uri: ./media/banner.png
+    - purpose: featureGraphic
+      uri: ./media/feature_graphic.png
+    - purpose: screenshot
+      uri: ./media/screenshot_1.png
+    - purpose: screenshot
+      uri: ./media/screenshot_2.png
+    - purpose: screenshot
+      uri: ./media/screenshot_3.png
+    - purpose: screenshot
+      uri: ./media/screenshot_4.png
+  files:
+    - purpose: install
+      uri: ./files/app-release-signed.apk
+  catalog:
+    en-US:
+      name: Winnr
+      short_description: Fantasy style crypto contests
+      long_description: Winnr is a fantasy-style contest platform where you compete on crypto narratives, memes, and tokens.
+      new_in_version: ''
+      saga_features: Crypto wallet
+solana_mobile_dapp_publisher_portal:
+  google_store_package: fun.winnr.app.twa
+  testing_instructions: ' 1. Install the app from the Play Store. 2. Open the app and log in with your wallet. 3. Join an existing one. 4. Start competing and have fun!'
+lastSubmittedVersionOnChain:
+  address: bdYXdfFxPB8d3Ki5HMPXuw7TeFkhXoGU9pRT5HGRJkM
+  version_code: 3
+  apk_hash: /l3JQM2ikTigNLR21krdhuEwppeeB/0Eh4ktEdAyVAk=
+lastUpdatedVersionOnStore:
+  address: bdYXdfFxPB8d3Ki5HMPXuw7TeFkhXoGU9pRT5HGRJkM
